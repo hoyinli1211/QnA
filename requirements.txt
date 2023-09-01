@@ -2,3 +2,4 @@ transformers
 streamlit
 langchain
 wikipedia==1.4.0
+torch
