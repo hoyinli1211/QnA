@@ -1,4 +1,4 @@
 transformers
 streamlit
 langchain
-wikipedia
+wikipedia==1.4.0
